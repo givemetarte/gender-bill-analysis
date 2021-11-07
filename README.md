@@ -18,4 +18,4 @@
 
 ---
 * *Special thanks to @namkyu9395, @ojoo-J ! CUAI팀 덕분에 수상할 수 있었습니다 :)*
-* *Further Information :* 데이콘 국회 입법활동 시각화 경진대회 3등상 수상에 기반이 되었던 프로젝트입니다. [[MORE INFO]](https://github.com/givemetarte/digital-sexual-crime-relevant-bills)
+* *Further Information :* 데이콘 국회 입법활동 시각화 경진대회 3등상 수상에 기반이 되었던 프로젝트입니다. [[코드 보러가기]](https://github.com/givemetarte/digital-sexual-crime-relevant-bills)
